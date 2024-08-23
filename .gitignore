@@ -1,0 +1,16 @@
+# general folders
+.idea/
+*/__pycache__
+__pycache__*
+requirements.txt
+
+# data
+data/*/
+data/*.h5
+*.zip
+
+
+# model weights
+logs/*.pth
+# results
+logs/*.csv
